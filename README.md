@@ -1,5 +1,6 @@
 # Examen LangChain : Assistant de Tests Unitaires Python
 
+
 ## Consignes générales
 
 L’examen a pour objectif de développer un assistant intelligent capable d’analyser du code Python, de générer automatiquement des tests unitaires avec pytest, et d’expliquer ces tests de manière pédagogique.
